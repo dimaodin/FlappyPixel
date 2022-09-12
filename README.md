@@ -8,4 +8,4 @@
 2. Run it on an IDE.
 3. Enjoy
 
-##### Love, Dima Odintsov ❤️
+##### Love, [Dima Odintsov](https://github.com/DimaOdin), make sure to check my [portfolio](https://dimaodin.com/) 💜🚀
